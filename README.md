@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
 <h3 align="center">A passionate Python and NodeJS developer from Italy</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datge" alt="datge" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datge" alt="datge" /></a> </p>
 
 - 🌱 I’m currently learning **Web 3.0,Blockchain,Ethereum,Solidity,Polkadot,NFT**
 
