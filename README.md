@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Web 3.0,Blockchain,Ethereum,Solidity,Polkadot,NFT**
 
-- 📫 How to reach me **datge993@gmail.com**
+- 📫 How to reach me **ssh@davidepellegrini.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/davide-pellegrini-559450160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davide-pellegrini-559450160" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/davide-pellegrini-559450160](https://www.linkedin.com/in/davide-pellegrini-dev)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davide-pellegrini-559450160" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
